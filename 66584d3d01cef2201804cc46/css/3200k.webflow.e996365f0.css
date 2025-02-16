@@ -2061,7 +2061,7 @@ textarea.w-input, textarea.w-select {
   --font-size-tablet: 1.6vw;
   --font-size-mobile-l: 2.8vw;
   --font-size-mobile: 4.1vw;
-  --bg-dark: #bd410c;
+  --bg-dark: #000;
   --text-dark: #daae87;
   --16-px: 1em;
   --light-orange-70: #daae87b3;
